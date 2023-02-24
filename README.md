@@ -6,8 +6,8 @@
   
 <!--<div align="center">-->
   
-  ![deldu1337's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=deldu1337&show_icons=false&bg_color=90,00000000,32987E,33FF99&title_color=FFFFFFFF&text_color=FFFFFFFF#gh-dark-mode-only)
-  ![deldu1337's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=deldu1337&show_icons=false&bg_color=90,FFFFFFFF,32987E,33FF99&title_color=00000000&text_color=00000000#gh-light-mode-only)
+  ![deldu1337's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=deldu1337&show_icons=false&bg_color=90,00000000,32987E,33FF99&title_color=FFFFFFFF&text_color=FFFFFFFF&theme=dark#gh-dark-mode-only)
+  ![deldu1337's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=deldu1337&show_icons=false&bg_color=90,FFFFFFFF,32987E,33FF99&title_color=00000000&text_color=00000000&theme=default#gh-light-mode-only)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deldu1337&layout=compact&bg_color=90,00000000,32987E,33FF99&title_color=FFFFFFFF&text_color=FFFFFFFF)
 
   
