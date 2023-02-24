@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![deldu1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldu1337&show_icons=true&theme=gotham)
+
+![deldu1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldu1337&show_icons=true&theme=merko)
