@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### :cd: Data engineer-to-be
+### :cd: Data engineer-to-be :chart:
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeldu1337&count_bg=%2327AC89&title_bg=%23000000&icon=&icon_color=%33FF99&title=hits&edge_flat=false)](https://github.com/deldu1337)     
 
