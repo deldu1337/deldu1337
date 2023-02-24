@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:32987E&height=120&animation=fadeIn&section=header&text=JUNG%20SEUNG%20HUN&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=FFFFFF)
 
 ### :cd: Data Engineer-to-be :chart:
   
