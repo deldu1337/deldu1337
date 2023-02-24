@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 ![deldu1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldu1337&show_icons=true&theme=gotham)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deldu1337&repo=FoodFinder&theme=merko)](https://github.com/deldu1337/FoodFinder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deldu1337&repo=FoodFinder&theme=merko)](https://github.com/deldu1337/SNS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deldu1337&repo=FoodFinder&theme=merko)](https://github.com/deldu1337/KakaoTalk)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deldu1337&repo=FoodFinder&theme=merko)](https://github.com/deldu1337/Coin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deldu1337&repo=FoodFinder&theme=merko)](https://github.com/deldu1337/SmartCar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deldu1337&repo=FoodFinder&theme=merko)](https://github.com/deldu1337/Algori)
