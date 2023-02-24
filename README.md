@@ -15,21 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <h1>Hi there 👋</h1>
+
+### Hi there 👋
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeldu1337&count_bg=%2327AC89&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/deldu1337)               
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeldu1337&count_bg=%2327AC89&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/deldu1337)               
+
 
 <hr>
 
-<div align="center">
+<!--<div align="center">-->
   
   ![deldu1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldu1337&show_icons=false&bg_color=90,00000000,32987E,33FF99&title_color=FFFFFFFF&text_color=FFFFFFFF)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deldu1337&layout=compact&bg_color=90,00000000,32987E,33FF99&title_color=FFFFFFFF&text_color=FFFFFFFF)
 
   
-</dev>
+<!--</dev>-->
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deldu1337&repo=FoodFinder&theme=merko)](https://github.com/deldu1337/FoodFinder)
