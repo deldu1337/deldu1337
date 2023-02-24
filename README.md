@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![deldu1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldu1337&show_icons=true&theme=gotham)
+![deldu1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldu1337&show_icons=true&theme=merko)
 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deldu1337&repo=FoodFinder&theme=merko)](https://github.com/deldu1337/FoodFinder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deldu1337&repo=SNS&theme=merko)](https://github.com/deldu1337/SNS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deldu1337&repo=KakaoTalk&theme=merko)](https://github.com/deldu1337/KakaoTalk)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deldu1337&repo=Coin&theme=merko)](https://github.com/deldu1337/Coin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deldu1337&repo=Algorithm&theme=merko)](https://github.com/deldu1337/Algorithm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deldu1337&repo=SmartCar&theme=merko)](https://github.com/deldu1337/SmartCar)
+-->
