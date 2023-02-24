@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![deldu1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldu1337&show_icons=true&bg_color=0000000&title_color=0FFFFFF&text_color=0FFFFFF)
+![deldu1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldu1337&show_icons=true&bg_color=0000000)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deldu1337&repo=FoodFinder&theme=merko)](https://github.com/deldu1337/FoodFinder)
