@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **deldu1337/deldu1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![deldu1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldu1337&show_icons=false&bg_color=90,00000000,32987E,33FF99&title_color=FFFFFFFF&text_color=FFFFFFFF)
+<div align="center">
+  <h1>Hi there 👋</h1>
+</div>
+
+<hr>
+
+<div align="center">
+  
+  ![deldu1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldu1337&show_icons=false&bg_color=90,00000000,32987E,33FF99&title_color=FFFFFFFF&text_color=FFFFFFFF)
+  
+</dev>
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deldu1337&repo=FoodFinder&theme=merko)](https://github.com/deldu1337/FoodFinder)
