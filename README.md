@@ -4,6 +4,7 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeldu1337&count_bg=%23000000&title_bg=%2332987E&icon=&icon_color=%23FFFFFF&title=Demo&edge_flat=false)](https://github.com/deldu1337)  
   
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sirath666)](https://solved.ac/sirath666/)
 <!--<div align="center">-->
   
   <!--![deldu1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldu1337&show_icons=false&bg_color=90,FFFFFFFF,32987E,33FF99&title_color=000000&text_color=000000)
