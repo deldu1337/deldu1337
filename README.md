@@ -2,8 +2,6 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:32987E&height=150&animation=twinkling&section=header&text=JUNG%20SEUNG%20HUN&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=FFFFFF&desc=Data%20Engineer-to-be&descSize=20&descAlignY=60)
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeldu1337&count_bg=%23000000&title_bg=%2332987E&icon=&icon_color=%23FFFFFF&title=Demo&edge_flat=false)](https://github.com/deldu1337)  
-  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sirath666)](https://solved.ac/sirath666/)
 <!--<div align="center">-->
   
