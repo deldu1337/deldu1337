@@ -1,6 +1,7 @@
 <div align="center"> 
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:32987E&height=150&animation=twinkling&section=header&text=JUNG%20SEUNG%20HUN&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=FFFFFF&desc=Data%20Engineer-to-be&descSize=20&descAlignY=60)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:32987E&height=150&animation=twinkling&section=header&text=JUNG%20SEUNG%20HUN&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=FFFFFF&desc=Data)
+  <!--[header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:32987E&height=150&animation=twinkling&section=header&text=JUNG%20SEUNG%20HUN&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=FFFFFF&desc=Data%20Engineer-to-be&descSize=20&descAlignY=60)-->
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sirath666)](https://solved.ac/sirath666/)
 <!--<div align="center">-->
